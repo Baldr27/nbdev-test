@@ -1,0 +1,7 @@
+website:
+  sidebar:
+    contents:
+      - index.ipynb
+      - 00_intro_reglas_asociacion.ipynb
+      - 01_implementacion_reglas_asociacion.ipynb
+      - 02_javascript_test.ipynb
