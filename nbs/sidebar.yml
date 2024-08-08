@@ -2,8 +2,16 @@ website:
   sidebar:
     contents:
       - index.ipynb
-      - 00_intro_reglas_asociacion.ipynb
-      - 01_implementacion_reglas_asociacion.ipynb
-      - 02_p5testing.qmd
-      - 03_objs.qmd
-      - 04_transformers js.qmd
+      - section: "Reglas de Asociaci\xF3n"
+        contents:
+          - "Reglas de Asociaci\xF3n/00_intro_reglas_asociacion.ipynb"
+          - "Reglas de Asociaci\xF3n/01_implementacion_reglas_asociacion.ipynb"
+      - section: observablejs
+        contents:
+          - observablejs/03_objs.qmd
+      - section: p5js
+        contents:
+          - p5js/02_p5testing.qmd
+      - section: transformersjs
+        contents:
+          - transformersjs/04_transformers js.qmd

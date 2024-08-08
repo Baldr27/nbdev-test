@@ -1,11 +1,15 @@
 ---
 title: "observable js"
-format: html
+format:
+  html:
+    code-fold: true
 
 toc: true
-toc-location: left
+toc-location: right
 toc-depth: 3
 ---
+
+## Hello
 
 ```{ojs}
 data = FileAttachment("palmer-penguins.csv").csv({ typed: true})

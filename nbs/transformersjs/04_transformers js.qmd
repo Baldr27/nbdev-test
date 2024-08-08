@@ -5,9 +5,11 @@ format:
     css: transformers.css
 
 toc: true
-toc-location: left
+toc-location: right
 toc-depth: 3
 ---
+
+## Hello
 
 <main class="container">
   <label class="custom-file-upload">
@@ -90,3 +92,5 @@ function renderBox({ box, label }) {
   imageContainer.appendChild(boxElement);
 }
 </script>
+
+## Bye
